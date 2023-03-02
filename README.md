@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... msg me at admin@funguy.ml
--  also check out https://aeross.ca.eu.org and https://pastaisbest.ml
+-  also check out  and https://pastaisbest.ml
 
 <!---
 chaitanya44444/chaitanya44444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
