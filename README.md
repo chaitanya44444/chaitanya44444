@@ -1,3 +1,5 @@
+
+![image](https://github.com/chaitanya44444/chaitanya44444/assets/93338022/bbcbf739-d883-46d8-85e6-c47660da8d5b)
 - 👋 Hi, I’m @chaitanya44444
 - 👀 I’m interested in ...alot
 - 🌱 I’m currently learning ...
