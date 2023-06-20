@@ -1,9 +1,10 @@
-# I know
+
 ![image](https://github.com/chaitanya44444/chaitanya44444/assets/93338022/bbcbf739-d883-46d8-85e6-c47660da8d5b)
 - 👋 Hi, I’m @chaitanya44444..
 - 📫 How to reach me ... msg me at admin@chaitanyav.dev
 -  I own https://chaitanyav.dev
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white) ![image](https://github.com/chaitanya44444/chaitanya44444/assets/93338022/cd57e6d1-df0a-4185-8772-2c251871f974)
+ # I know
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white) 
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=chaitanya44444&private_count=true&show_icons=true&theme=tokyonight)<br/>
