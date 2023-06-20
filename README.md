@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... msg me at admin@funguy.ml
--  also check out  and https://pastaisbest.ml
+-  I own chaitanyav.dev
+-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaitanya44444&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!---
 chaitanya44444/chaitanya44444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
