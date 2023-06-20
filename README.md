@@ -4,8 +4,9 @@
 - 📫 How to reach me ... msg me at admin@chaitanyav.dev
 -  I own https://chaitanyav.dev
  # I know
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white)  ![image](https://github.com/chaitanya44444/chaitanya44444/assets/93338022/55ac60fe-c1e2-4614-b286-e300fd15907b)
 
+ 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=chaitanya44444&private_count=true&show_icons=true&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chaitanya44444&theme=tokyonight&hide_border=false)<br/>
