@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... msg me at admin@funguy.ml
--  I own chaitanyav.dev
+-  I own https://chaitanyav.dev
 -  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chaitanya44444&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
