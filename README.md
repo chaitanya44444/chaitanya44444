@@ -1,6 +1,6 @@
 
 ![image](https://github.com/chaitanya44444/chaitanya44444/assets/93338022/bbcbf739-d883-46d8-85e6-c47660da8d5b)
-- 👋 Hi , I’m @chaitanya44444
+- 👋 Hi , I’m @chaitanya44444 and im an adhoc at exunclan
 - 📫 How to reach me ... msg me at admin@chaitanyav.dev 
 -  I own https://chaitanyav.dev and chaitanyav.us
  # I know
