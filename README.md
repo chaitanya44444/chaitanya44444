@@ -47,10 +47,6 @@ src="https://img.shields.io/twitter/follow/chaitan05545950?logo=twitter&style=fo
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
  
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=chaitanya44444&private_count=true&show_icons=true&theme=tokyonight)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaitanya44444&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya44444&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Trophies
