@@ -12,7 +12,7 @@ I've been learning to code since 6th grade starting from c++,it appinventor to p
 * 🚀  I'm currently working on [Machine Learning](http://www.tensorflow.org/)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Games
-* ⚡  I study in dpsrkp and am an adhoc in Exun clan
+* ⚡  I study in dpsrkp and am an adhoc in Exun clan's Competative Programming and Game Dev  departments.
 
 <a href="https://www.github.com/chaitanya44444" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chaitanya44444?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/chaitan05545950" target="_blank" rel="noreferrer"><img
