@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is chaitanya vaswani
 =========================================================================================================================================
 
-Game Dev,Software dev to be and web dev
+Interested in Game Dev,Software development procces and web dev.
 ---------------------------------------
 
 I've been learning to code since 6th grade starting from c++,it appinventor to python,lua,golang
@@ -10,9 +10,9 @@ I've been learning to code since 6th grade starting from c++,it appinventor to p
 * 🖥️  See my portfolio at [Chaitanyav.dev](http://chaitanyav.dev)
 * ✉️  You can contact me at [chaitanya@chaitanyav.dev](mailto:chaitanya@chaitanyav.dev)
 * 🚀  I'm currently working on [Machine Learning](http://www.tensorflow.org/)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Flask and blender(made some sick vfx in my latest game in godot 4.3 in 3d)
 * 🤝  I'm open to collaborating on Games
-* ⚡  I study in dpsrkp and am an adhoc in Exun clan's Competative Programming and Game Dev  departments.
+* ⚡  I study in dpsrkp and am an adhoc in Exun clan's Competative Programming,Game Dev and web dev  departments.
 
 <a href="https://www.github.com/chaitanya44444" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chaitanya44444?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/chaitan05545950" target="_blank" rel="noreferrer"><img
@@ -50,6 +50,8 @@ src="https://img.shields.io/twitter/follow/chaitan05545950?logo=twitter&style=fo
 
 
 ## Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya44444&theme=gruvbox&no-bg=true&margin-w=15" alt="javascription" /></a> </p>  
+
 ![](https://github-profile-trophy.vercel.app/?username=chaitanya44444&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
