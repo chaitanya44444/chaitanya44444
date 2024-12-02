@@ -55,7 +55,7 @@ src="https://img.shields.io/twitter/follow/chaitan05545950?logo=twitter&style=fo
 ![](https://github-profile-trophy.vercel.app/?username=chaitanya44444&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
-[![](https://visitcount.itsvg.in/api?id=XchaitanyaX&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=XchaitanyaX&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in) 
 
 
 <!---
