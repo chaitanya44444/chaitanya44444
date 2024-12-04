@@ -50,7 +50,7 @@ src="https://img.shields.io/twitter/follow/chaitan05545950?logo=twitter&style=fo
 
 
 ## Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya44444&theme=gruvbox&no-bg=true&margin-w=15" alt="javascription" /></a> </p>  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanya44444&theme=gruvbox&no-bg=true&margin-w=15" alt="chaitanya" /></a> </p>  
 
 ![](https://github-profile-trophy.vercel.app/?username=chaitanya44444&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
