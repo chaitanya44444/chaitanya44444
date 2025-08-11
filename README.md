@@ -7,7 +7,6 @@ Interested in Game Dev,Software development procces and web dev.
 I've been learning to code since 6th grade starting from c++,it appinventor to python,lua,golang
 
 * 🌍  I'm based in New Delhi,India
-* 🖥️  See my portfolio at [Chaitanyav.dev](http://chaitanyav.dev)
 * ✉️  You can contact me at [chaitanya@chaitanyav.dev](mailto:chaitanya@chaitanyav.dev)
 * 🚀  I'm currently working on [Machine Learning](http://www.tensorflow.org/)
 * 🧠  I'm learning Flask and blender(made some sick vfx in my latest game in godot 4.3 in 3d)
