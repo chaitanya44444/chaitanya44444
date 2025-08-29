@@ -15,7 +15,9 @@ I've been learning to code since 6th grade starting from c++,it appinventor to p
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya4444&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya4444" /> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![committers.top badge](https://user-badge.committers.top/india_private/chaitanya44444.svg)](https://user-badge.committers.top/india_private/chaitanya44444)
 
 ### Blogs posts
