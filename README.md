@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is chaitanya vaswani
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is chaitanya 
 =========================================================================================================================================
 
 Interested in Game Dev,Software development procces and web dev.
@@ -11,7 +11,7 @@ I've been learning to code since 6th grade starting from c++,it appinventor to p
 * 🚀  I'm currently working on [Machine Learning](http://www.tensorflow.org/)
 * 🧠  I'm learning Flask and blender(made some sick vfx in my latest game in godot 4.3 in 3d)
 * 🤝  I'm open to collaborating on Games
-* ⚡  I study in dpsrkp and was(left for Greener patures) in Exun clan's Competative Programming,Game Dev and web dev  departments.
+* ⚡  I study in
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya4444&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya4444" /> </p>
