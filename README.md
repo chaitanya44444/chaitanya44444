@@ -59,3 +59,12 @@ I've been learning to code since 6th grade starting from c++,it appinventor to p
 chaitanya44444/chaitanya44444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- CONTRIBUTIONS:START -->
+## 🤝 Projects I've contributed to
+
+- [adza8/geek24](https://github.com/adza8/geek24) — 1 PR, 62 commits
+- [Chaitanya-Vaswani/voice-assistant-bot](https://github.com/Chaitanya-Vaswani/voice-assistant-bot) — 6 commits
+- [Devansh365/bullet-hell](https://github.com/Devansh365/bullet-hell) — 1 commit
+- [SoulShadow8326/Aurea](https://github.com/SoulShadow8326/Aurea) — 5 commits
+<!-- CONTRIBUTIONS:END -->
